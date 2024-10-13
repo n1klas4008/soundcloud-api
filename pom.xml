@@ -59,9 +59,9 @@
             <version>e8c70051be</version>
         </dependency>
         <dependency>
-            <groupId>com.n1klas4008</groupId>
+            <groupId>com.github.n1klas4008</groupId>
             <artifactId>ion-http</artifactId>
-            <version>alpha-1.0.1</version>
+            <version>974c842882</version>
         </dependency>
     </dependencies>
 </project>
